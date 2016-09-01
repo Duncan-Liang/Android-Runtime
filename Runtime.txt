@@ -1,0 +1,511 @@
+08-15 11:02:37.197: D/SmartDialUnbundle(27908): SmartDialWordingTask run
+08-15 11:02:37.199: D/SmartDialUnbundle(27908): [Time] SmartDialWordingTask done. #WordingData=1. Spent=1 ms.
+08-15 11:02:37.220: D/SmartDialUnbundle(27908): SmartDialWordingTask finish
+08-15 11:02:37.273: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:37.286: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:37.353: I/art(27908): WaitForGcToComplete blocked for 80.802ms for cause Alloc
+08-15 11:02:37.354: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:37.354: I/art(27908): WaitForGcToComplete blocked for 68.142ms for cause Alloc
+08-15 11:02:37.354: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:37.385: D/SmartDialUnbundle(27908): Initialize phonetic mapping table completed.
+08-15 11:02:37.401: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:37.401: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:37.420: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:37.448: I/art(27908): WaitForGcToComplete blocked for 46.883ms for cause Alloc
+08-15 11:02:37.448: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:37.448: I/art(27908): WaitForGcToComplete blocked for 47.026ms for cause Alloc
+08-15 11:02:37.448: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:37.448: I/art(27908): WaitForGcToComplete blocked for 28.370ms for cause Alloc
+08-15 11:02:37.448: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:37.470: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:37.471: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:38.649: I/art(27908): Background partial concurrent mark sweep GC freed 182400(4MB) AllocSpace objects, 3(64KB) LOS objects, 3% free, 123MB/127MB, paused 1.796ms total 1.183s
+08-15 11:02:38.650: I/art(27908): WaitForGcToComplete blocked for 1.179s for cause Alloc
+08-15 11:02:38.650: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:38.650: I/art(27908): WaitForGcToComplete blocked for 1.179s for cause Alloc
+08-15 11:02:38.650: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:38.706: D/SmartDialUnbundle(27908): Calls DB change
+08-15 11:02:38.706: D/SmartDialUnbundle(27908): ResultListFragment loadSmartDialData priority: 1, scheduling ...
+08-15 11:02:38.710: D/SmartDialUnbundle(27908): ResultListFragment mLoadSmartDialDataHandler priority: LOAD_DATA_PRIORITY HIGH, process ...
+08-15 11:02:38.710: D/SmartDialUnbundle(27908): SmartDialData loadContactDataTask
+08-15 11:02:38.710: D/SmartDialUnbundle(27908): SmartDialDataTask loadContactDataTask type: LOAD ALL DATA FROM FILE
+08-15 11:02:38.724: D/SmartDialUnbundle(27908): SmartDialDataTask run
+08-15 11:02:38.724: D/SmartDialUnbundle(27908): SmartDialDataTask loadAllContactDataFromFile
+08-15 11:02:38.724: D/SmartDialUnbundle(27908): SmartDialData reset
+08-15 11:02:38.725: D/SmartDialUnbundle(27908): SmartDialWordingTask run
+08-15 11:02:38.755: D/SmartDialUnbundle(27908): [Query] Query "" complete. Get 0 contacts. Spent 1556 ms
+08-15 11:02:38.763: D/SmartDialUnbundle(27908): Initialize pinyin mapping table completed.
+08-15 11:02:38.914: D/SmartDialUnbundle(27908): SmartDialDataTask loadAllContactDataFromFile finished, #Data=1, spent time= 190ms
+08-15 11:02:38.914: D/SmartDialUnbundle(27908): SmartDialDataTask finish
+08-15 11:02:38.914: D/SmartDialUnbundle(27908): [Time] SmartDialWordingTask done. #WordingData=1. Spent=189 ms.
+08-15 11:02:38.915: D/SmartDialUnbundle(27908): ResultListFragment loadSmartDialData priority: 2, scheduling ...
+08-15 11:02:38.915: D/SmartDialUnbundle(27908): SmartDialWordingTask finish
+08-15 11:02:38.946: I/art(27908): Background sticky concurrent mark sweep GC freed 63814(2MB) AllocSpace objects, 1(20KB) LOS objects, 1% free, 125MB/127MB, paused 1.960ms total 100.808ms
+08-15 11:02:39.020: D/SmartDialUnbundle(27908): [Query] Query "" complete. Get 0 contacts. Spent 105 ms
+08-15 11:02:39.748: D/SmartDialUnbundle(27908): Calls DB change
+08-15 11:02:39.748: D/SmartDialUnbundle(27908): ResultListFragment loadSmartDialData priority: 1, scheduling ...
+08-15 11:02:41.484: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:41.484: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:41.507: I/art(27908): Alloc sticky concurrent mark sweep GC freed 6128(384KB) AllocSpace objects, 0(0B) LOS objects, 1% free, 125MB/127MB, paused 1.980ms total 21.813ms
+08-15 11:02:41.507: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:42.378: I/art(27908): Clamp target GC heap from 128MB to 128MB
+08-15 11:02:42.378: I/art(27908): Alloc partial concurrent mark sweep GC freed 11640(911KB) AllocSpace objects, 2(40KB) LOS objects, 2% free, 124MB/128MB, paused 1.811ms total 869.166ms
+08-15 11:02:42.378: I/art(27908): WaitForGcToComplete blocked for 234.822ms for cause HeapTrim
+08-15 11:02:42.650: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:42.663: I/art(27908): WaitForGcToComplete blocked for 12.860ms for cause Alloc
+08-15 11:02:42.663: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:42.671: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:43.491: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:43.491: I/art(27908): Background partial concurrent mark sweep GC freed 1316(98KB) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.976ms total 825.010ms
+08-15 11:02:43.491: I/art(27908): WaitForGcToComplete blocked for 819.981ms for cause Alloc
+08-15 11:02:43.491: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:43.514: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:44.355: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:44.355: I/art(27908): Background partial concurrent mark sweep GC freed 464(25KB) AllocSpace objects, 1(40KB) LOS objects, 0% free, 127MB/128MB, paused 1.818ms total 848.097ms
+08-15 11:02:44.355: I/art(27908): WaitForGcToComplete blocked for 841.405ms for cause Alloc
+08-15 11:02:44.355: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:44.365: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:44.369: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:44.373: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:45.206: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:45.206: I/art(27908): Background partial concurrent mark sweep GC freed 205(18KB) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.843ms total 836.403ms
+08-15 11:02:45.206: I/art(27908): WaitForGcToComplete blocked for 832.908ms for cause Alloc
+08-15 11:02:45.206: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:45.212: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:45.221: I/art(27908): WaitForGcToComplete blocked for 9.188ms for cause Alloc
+08-15 11:02:45.221: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:45.224: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:46.063: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:46.063: I/art(27908): Background partial concurrent mark sweep GC freed 64(3KB) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.850ms total 840.686ms
+08-15 11:02:46.063: I/art(27908): WaitForGcToComplete blocked for 839.026ms for cause Alloc
+08-15 11:02:46.063: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:46.063: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:46.076: I/art(27908): Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.647ms total 12.339ms
+08-15 11:02:46.076: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:46.927: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:46.927: I/art(27908): Alloc partial concurrent mark sweep GC freed 22(880B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 2.186ms total 850.632ms
+08-15 11:02:46.927: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:47.653: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:47.653: I/art(27908): Alloc concurrent mark sweep GC freed 7(12KB) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.499ms total 725.782ms
+08-15 11:02:47.653: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:47.653: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:47.654: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:47.666: I/art(27908): Alloc sticky concurrent mark sweep GC freed 5(400B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.459ms total 12.662ms
+08-15 11:02:47.666: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:47.666: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:48.327: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:48.328: I/art(27908): Alloc partial concurrent mark sweep GC freed 1(16B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.465ms total 661.305ms
+08-15 11:02:48.328: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:48.328: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:48.990: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:49.041: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:49.041: I/art(27908): Alloc concurrent mark sweep GC freed 1(16B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.934ms total 713.029ms
+08-15 11:02:49.041: I/art(27908): WaitForGcToComplete blocked for 2.965s for cause Background
+08-15 11:02:49.041: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:49.042: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:49.042: I/art(27908): WaitForGcToComplete blocked for 52.255ms for cause Alloc
+08-15 11:02:49.042: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:49.042: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:49.042: I/art(27908): Forcing collection of SoftReferences for 24B allocation
+08-15 11:02:49.042: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:49.045: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:49.054: I/art(27908): Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.628ms total 11.845ms
+08-15 11:02:49.054: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:49.054: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:49.054: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:49.728: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:49.728: I/art(27908): Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.481ms total 674.091ms
+08-15 11:02:49.729: I/art(27908): WaitForGcToComplete blocked for 2.074s for cause Alloc
+08-15 11:02:49.729: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:49.729: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:49.729: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:49.734: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:49.741: I/art(27908): Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.496ms total 12.478ms
+08-15 11:02:49.741: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:49.741: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:49.742: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:50.375: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:50.375: I/art(27908): Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.503ms total 633.563ms
+08-15 11:02:50.375: I/art(27908): WaitForGcToComplete blocked for 1.333s for cause Alloc
+08-15 11:02:50.375: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:50.375: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:50.377: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:51.024: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:51.024: I/art(27908): Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.516ms total 648.671ms
+08-15 11:02:51.024: I/art(27908): Starting a blocking GC HomogeneousSpaceCompact
+08-15 11:02:51.024: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:51.024: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:52.212: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:52.212: I/art(27908): HomogeneousSpaceCompact marksweep + semispace GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.187s total 1.187s
+08-15 11:02:52.212: I/art(27908): WaitForGcToComplete blocked for 2.477s for cause Alloc
+08-15 11:02:52.212: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:52.212: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:52.215: W/art(27908): Throwing OutOfMemoryError "Failed to allocate a 24 byte allocation with 432 free bytes and 432B until OOM"
+08-15 11:02:52.215: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:52.761: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:52.761: I/art(27908): Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.405ms total 548.677ms
+08-15 11:02:52.761: I/art(27908): Forcing collection of SoftReferences for 32B allocation
+08-15 11:02:52.761: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:52.761: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:52.761: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:53.306: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:53.306: I/art(27908): Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.367ms total 544.747ms
+08-15 11:02:53.306: W/art(27908): Throwing OutOfMemoryError "Failed to allocate a 32 byte allocation with 432 free bytes and 432B until OOM"
+08-15 11:02:53.306: I/art(27908): WaitForGcToComplete blocked for 2.929s for cause Alloc
+08-15 11:02:53.306: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:53.306: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:53.306: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:53.848: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:53.848: I/art(27908): Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.348ms total 541.453ms
+08-15 11:02:53.848: I/art(27908): WaitForGcToComplete blocked for 1.632s for cause Alloc
+08-15 11:02:53.848: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:53.848: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:53.849: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:53.850: I/art(27908): Forcing collection of SoftReferences for 34B allocation
+08-15 11:02:53.850: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:53.859: I/art(27908): Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.440ms total 10.346ms
+08-15 11:02:53.859: I/art(27908): WaitForGcToComplete blocked for 552.309ms for cause Alloc
+08-15 11:02:53.859: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:53.859: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:53.859: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:53.860: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:54.392: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:54.392: I/art(27908): Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.508ms total 532.865ms
+08-15 11:02:54.392: I/art(27908): WaitForGcToComplete blocked for 542.128ms for cause Alloc
+08-15 11:02:54.392: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:54.392: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:54.393: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:54.933: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:54.933: I/art(27908): Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.365ms total 540.562ms
+08-15 11:02:54.933: W/art(27908): Throwing OutOfMemoryError "Failed to allocate a 34 byte allocation with 432 free bytes and 432B until OOM"
+08-15 11:02:54.933: I/art(27908): WaitForGcToComplete blocked for 1.073s for cause Alloc
+08-15 11:02:54.933: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:54.936: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:54.936: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:55.462: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:55.462: I/art(27908): Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.526ms total 528.996ms
+08-15 11:02:55.462: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:55.462: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:55.462: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:56.009: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:56.009: I/art(27908): Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.357ms total 546.797ms
+08-15 11:02:56.009: I/art(27908): WaitForGcToComplete blocked for 1.616s for cause Alloc
+08-15 11:02:56.009: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:56.010: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:56.011: I/art(27908): Forcing collection of SoftReferences for 28B allocation
+08-15 11:02:56.011: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:56.020: I/art(27908): Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.421ms total 10.375ms
+08-15 11:02:56.020: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:56.020: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:56.020: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:56.558: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:56.558: I/art(27908): Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.342ms total 537.965ms
+08-15 11:02:56.558: I/art(27908): Forcing collection of SoftReferences for 28B allocation
+08-15 11:02:56.558: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:56.558: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:56.558: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:57.100: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:57.101: I/art(27908): Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.413ms total 542.188ms
+08-15 11:02:57.101: W/art(27908): Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 432 free bytes and 432B until OOM" (recursive case)
+08-15 11:02:57.101: I/art(27908): WaitForGcToComplete blocked for 2.164s for cause Alloc
+08-15 11:02:57.101: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:57.101: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:57.102: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:57.108: W/art(27908): "Binder_3" prio=5 tid=29 Runnable
+08-15 11:02:57.108: W/art(27908): | group="main" sCount=0 dsCount=0 obj=0x22c1aa60 self=0x7f84671200
+08-15 11:02:57.108: W/art(27908): | sysTid=28134 nice=0 cgrp=default sched=0/0 handle=0x7f82cff440
+08-15 11:02:57.108: W/art(27908): | state=R schedstat=( 6334996652 6069557553 20117 ) utm=474 stm=159 core=1 HZ=100
+08-15 11:02:57.108: W/art(27908): | stack=0x7f82c04000-0x7f82c06000 stackSize=1009KB
+08-15 11:02:57.108: W/art(27908): | held mutexes= "mutator lock"(shared held)
+08-15 11:02:57.108: W/art(27908): at android.os.Parcel.nativeReadStrongBinder(Native method)
+08-15 11:02:57.108: W/art(27908): at android.os.Parcel.readStrongBinder(Parcel.java:1666)
+08-15 11:02:57.108: W/art(27908): at android.view.accessibility.IAccessibilityInteractionConnection$Stub.onTransact(IAccessibilityInteractionConnection.java:66)
+08-15 11:02:57.108: W/art(27908): at android.os.Binder.execTransact(Binder.java:458)
+08-15 11:02:57.109: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:57.117: I/art(27908): Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.354ms total 16.407ms
+08-15 11:02:57.117: I/art(27908): WaitForGcToComplete blocked for 3.063s for cause HeapTrim
+08-15 11:02:57.118: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:57.118: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:57.118: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:57.118: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:57.118: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:57.654: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:57.656: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:57.656: I/art(27908): Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.420ms total 537.969ms
+08-15 11:02:57.656: I/art(27908): WaitForGcToComplete blocked for 1.645s for cause Alloc
+08-15 11:02:57.656: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:57.656: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:57.657: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:57.658: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:58.192: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:58.192: I/art(27908): Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.375ms total 535.734ms
+08-15 11:02:58.192: W/art(27908): Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 432 free bytes and 432B until OOM; failed due to fragmentation (required continguous free 4096 bytes for a new buffer where largest contiguous free 0 bytes)" (recursive case)
+08-15 11:02:58.193: I/art(27908): WaitForGcToComplete blocked for 1.083s for cause Alloc
+08-15 11:02:58.193: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:58.193: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:58.193: W/art(27908): "FinalizerDaemon" daemon prio=5 tid=6 Runnable
+08-15 11:02:58.194: W/art(27908): | group="system" sCount=0 dsCount=0 obj=0x22c1a340 self=0x7f9c3c5c00
+08-15 11:02:58.194: W/art(27908): | sysTid=27915 nice=0 cgrp=default sched=0/0 handle=0x7f9b6e1440
+08-15 11:02:58.194: W/art(27908): | state=R schedstat=( 21338274729 3230890144 28722 ) utm=1663 stm=470 core=1 HZ=100
+08-15 11:02:58.194: W/art(27908): | stack=0x7f9b5df000-0x7f9b5e1000 stackSize=1037KB
+08-15 11:02:58.194: W/art(27908): | held mutexes= "mutator lock"(shared held)
+08-15 11:02:58.194: W/art(27908): at com.android.internal.os.BinderInternal$GcWatcher.finalize(BinderInternal.java:53)
+08-15 11:02:58.194: W/art(27908): at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:229)
+08-15 11:02:58.194: W/art(27908): at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:207)
+08-15 11:02:58.194: W/art(27908): at java.lang.Thread.run(Thread.java:818)
+08-15 11:02:58.194: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:58.194: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:58.194: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:58.203: I/art(27908): Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.313ms total 10.458ms
+08-15 11:02:58.203: I/art(27908): WaitForGcToComplete blocked for 9.424ms for cause Alloc
+08-15 11:02:58.203: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:58.203: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:58.204: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:58.204: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:58.205: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:58.728: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:58.728: I/art(27908): Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.333ms total 524.538ms
+08-15 11:02:58.728: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:58.728: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:58.728: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:58.729: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:58.739: I/art(27908): Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.422ms total 10.403ms
+08-15 11:02:58.739: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:58.739: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:58.739: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:58.739: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:59.282: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:59.282: I/art(27908): Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.408ms total 542.877ms
+08-15 11:02:59.282: I/art(27908): Forcing collection of SoftReferences for 16B allocation
+08-15 11:02:59.282: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:59.282: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:59.282: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:59.282: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:59.820: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:02:59.820: I/art(27908): Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.325ms total 538.171ms
+08-15 11:02:59.820: W/art(27908): Throwing OutOfMemoryError "Failed to allocate a 16 byte allocation with 432 free bytes and 432B until OOM; failed due to fragmentation (required continguous free 4096 bytes for a new buffer where largest contiguous free 0 bytes)"
+08-15 11:02:59.820: I/art(27908): WaitForGcToComplete blocked for 2.166s for cause Alloc
+08-15 11:02:59.820: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:59.821: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:59.821: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:59.821: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:59.821: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:59.831: I/art(27908): Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.334ms total 10.616ms
+08-15 11:02:59.831: I/art(27908): Starting a blocking GC Alloc
+08-15 11:02:59.831: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:59.832: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:02:59.832: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:00.372: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:03:00.372: I/art(27908): Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.385ms total 540.807ms
+08-15 11:03:00.372: I/art(27908): WaitForGcToComplete blocked for 2.714s for cause Alloc
+08-15 11:03:00.372: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:00.373: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:00.373: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:00.374: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:00.912: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:03:00.912: I/art(27908): Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.446ms total 539.004ms
+08-15 11:03:00.912: I/art(27908): Forcing collection of SoftReferences for 28B allocation
+08-15 11:03:00.912: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:00.912: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:00.912: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:00.912: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:01.456: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:03:01.456: I/art(27908): Alloc concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.508ms total 544.377ms
+08-15 11:03:01.456: W/art(27908): Throwing OutOfMemoryError "Failed to allocate a 28 byte allocation with 432 free bytes and 432B until OOM; failed due to fragmentation (required continguous free 4096 bytes for a new buffer where largest contiguous free 0 bytes)" (recursive case)
+08-15 11:03:01.457: I/art(27908): WaitForGcToComplete blocked for 3.251s for cause Alloc
+08-15 11:03:01.457: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:01.458: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:01.458: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:01.464: W/art(27908): "main" prio=5 tid=1 Runnable
+08-15 11:03:01.464: W/art(27908): | group="main" sCount=0 dsCount=0 obj=0x753595e0 self=0x7f9c5bc400
+08-15 11:03:01.464: W/art(27908): | sysTid=27908 nice=-6 cgrp=default sched=0/0 handle=0x7fa02f12c0
+08-15 11:03:01.464: W/art(27908): | state=R schedstat=( 455224848329 148932470298 625397 ) utm=35908 stm=9614 core=1 HZ=100
+08-15 11:03:01.464: W/art(27908): | stack=0x7fd47a8000-0x7fd47aa000 stackSize=8MB
+08-15 11:03:01.464: W/art(27908): | held mutexes= "mutator lock"(shared held)
+08-15 11:03:01.464: W/art(27908): at android.graphics.BitmapFactory.nativeDecodeAsset(Native method)
+08-15 11:03:01.464: W/art(27908): at android.graphics.BitmapFactory.decodeStream(BitmapFactory.java:651)
+08-15 11:03:01.464: W/art(27908): at android.graphics.BitmapFactory.decodeResourceStream(BitmapFactory.java:486)
+08-15 11:03:01.464: W/art(27908): at android.graphics.drawable.Drawable.createFromResourceStream(Drawable.java:1085)
+08-15 11:03:01.464: W/art(27908): at android.content.res.Resources.loadDrawableForCookie(Resources.java:2897)
+08-15 11:03:01.464: W/art(27908): at android.content.res.Resources.loadDrawable(Resources.java:2786)
+08-15 11:03:01.464: W/art(27908): at android.content.res.TypedArray.getDrawable(TypedArray.java:870)
+08-15 11:03:01.464: W/art(27908): at android.graphics.drawable.StateListDrawable.inflateChildElements(StateListDrawable.java:170)
+08-15 11:03:01.464: W/art(27908): at android.graphics.drawable.StateListDrawable.inflate(StateListDrawable.java:115)
+08-15 11:03:01.464: W/art(27908): at android.graphics.drawable.Drawable.createFromXmlInner(Drawable.java:1220)
+08-15 11:03:01.464: W/art(27908): at android.graphics.drawable.Drawable.createFromXml(Drawable.java:1129)
+08-15 11:03:01.464: W/art(27908): at android.content.res.Resources.loadDrawableForCookie(Resources.java:2892)
+08-15 11:03:01.465: W/art(27908): at android.content.res.Resources.loadDrawable(Resources.java:2786)
+08-15 11:03:01.465: W/art(27908): at android.content.res.TypedArray.getDrawable(TypedArray.java:870)
+08-15 11:03:01.465: W/art(27908): at android.view.View.<init>(View.java:4002)
+08-15 11:03:01.465: W/art(27908): at android.view.ViewGroup.<init>(ViewGroup.java:600)
+08-15 11:03:01.465: W/art(27908): at android.widget.AdapterView.<init>(AdapterView.java:251)
+08-15 11:03:01.465: W/art(27908): at android.widget.AbsSpinner.<init>(AbsSpinner.java:75)
+08-15 11:03:01.465: W/art(27908): at android.widget.Spinner.<init>(Spinner.java:239)
+08-15 11:03:01.465: W/art(27908): at android.widget.Spinner.<init>(Spinner.java:206)
+08-15 11:03:01.465: W/art(27908): at android.widget.Spinner.<init>(Spinner.java:161)
+08-15 11:03:01.465: W/art(27908): at android.widget.Spinner.<init>(Spinner.java:146)
+08-15 11:03:01.465: W/art(27908): at java.lang.reflect.Constructor.newInstance!(Native method)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.createView(LayoutInflater.java:619)
+08-15 11:03:01.465: W/art(27908): at com.android.internal.policy.PhoneLayoutInflater.onCreateView(PhoneLayoutInflater.java:58)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.onCreateView(LayoutInflater.java:694)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:762)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.parseInclude(LayoutInflater.java:941)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.rInflate(LayoutInflater.java:831)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:798)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.parseInclude(LayoutInflater.java:971)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.rInflate(LayoutInflater.java:831)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:798)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.rInflate(LayoutInflater.java:838)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:798)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.rInflate(LayoutInflater.java:838)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:798)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.rInflate(LayoutInflater.java:838)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:798)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.inflate(LayoutInflater.java:515)
+08-15 11:03:01.465: W/art(27908): at android.view.LayoutInflater.inflate(LayoutInflater.java:423)
+08-15 11:03:01.465: W/art(27908): at com.android.contacts.editor.ContactEditorFragment.eG(unavailable:-1)
+08-15 11:03:01.465: W/art(27908): at com.android.contacts.editor.ContactEditorFragment.a(unavailable:-1)
+08-15 11:03:01.465: W/art(27908): at com.android.contacts.editor.ContactEditorFragment.b(unavailable:-1)
+08-15 11:03:01.465: W/art(27908): at com.android.contacts.editor.ContactEditorFragment.onActivityCreated(unavailable:-1)
+08-15 11:03:01.465: W/art(27908): at android.app.Fragment.performActivityCreated(Fragment.java:2244)
+08-15 11:03:01.465: W/art(27908): at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:997)
+08-15 11:03:01.465: W/art(27908): at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1153)
+08-15 11:03:01.465: W/art(27908): at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1135)
+08-15 11:03:01.466: W/art(27908): at android.app.FragmentManagerImpl.dispatchActivityCreated(FragmentManager.java:1980)
+08-15 11:03:01.466: W/art(27908): at android.app.FragmentController.dispatchActivityCreated(FragmentController.java:152)
+08-15 11:03:01.466: W/art(27908): at android.app.Activity.performCreateCommon(Activity.java:6342)
+08-15 11:03:01.466: W/art(27908): at android.app.Activity.performCreate(Activity.java:6349)
+08-15 11:03:01.466: W/art(27908): at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1113)
+08-15 11:03:01.466: W/art(27908): at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2547)
+08-15 11:03:01.466: W/art(27908): at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2682)
+08-15 11:03:01.466: W/art(27908): at android.app.ActivityThread.-wrap11(ActivityThread.java:-1)
+08-15 11:03:01.466: W/art(27908): at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1496)
+08-15 11:03:01.466: W/art(27908): at android.os.Handler.dispatchMessage(Handler.java:111)
+08-15 11:03:01.466: W/art(27908): at android.os.Looper.loop(Looper.java:207)
+08-15 11:03:01.466: W/art(27908): at android.app.ActivityThread.main(ActivityThread.java:5777)
+08-15 11:03:01.466: W/art(27908): at java.lang.reflect.Method.invoke!(Native method)
+08-15 11:03:01.466: W/art(27908): at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:789)
+08-15 11:03:01.466: W/art(27908): at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:679)
+08-15 11:03:01.472: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:02.062: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:03:02.063: I/art(27908): Alloc partial concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.551ms total 605.652ms
+08-15 11:03:02.063: I/art(27908): WaitForGcToComplete blocked for 2.241s for cause Alloc
+08-15 11:03:02.063: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:02.063: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:02.063: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:02.064: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:02.065: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:02.074: I/art(27908): Alloc sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.411ms total 11.139ms
+08-15 11:03:02.074: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:02.074: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:02.074: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:02.075: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:02.665: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:03:02.665: I/art(27908): Alloc partial concurrent mark sweep GC freed 11(848B) AllocSpace objects, 1(20KB) LOS objects, 0% free, 127MB/128MB, paused 1.549ms total 590.354ms
+08-15 11:03:02.665: I/art(27908): WaitForGcToComplete blocked for 2.291s for cause Alloc
+08-15 11:03:02.665: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:02.665: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:02.665: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:02.728: I/art(27908): Thread[2,tid=27913,WaitingInMainSignalCatcherLoop,Thread*=0x7f97043000,peer=0x22c1a1c0,"Signal Catcher"]: reacting to signal 3
+08-15 11:03:02.931: I/art(1421): Thread[2,tid=1431,WaitingInMainSignalCatcherLoop,Thread*=0x7f97043000,peer=0x12c010a0,"Signal Catcher"]: reacting to signal 3
+08-15 11:03:03.267: W/art(27908): Suspending all threads took: 536.060ms
+08-15 11:03:03.267: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:03:03.267: I/art(27908): Alloc concurrent mark sweep GC freed 16(1216B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.416ms total 601.951ms
+08-15 11:03:03.267: I/art(27908): WaitForGcToComplete blocked for 1.795s for cause Alloc
+08-15 11:03:03.267: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:03.267: I/art(27908): WaitForGcToComplete blocked for 1.202s for cause Alloc
+08-15 11:03:03.267: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:03.295: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:03.296: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:03.540: I/art(2249): Thread[2,tid=2309,WaitingInMainSignalCatcherLoop,Thread*=0xefb4e000,peer=0x12c06160,"Signal Catcher"]: reacting to signal 3
+08-15 11:03:03.654: I/art(1421): Wrote stack traces to '/data/anr/traces.txt'
+08-15 11:03:03.658: I/art(2244): Thread[2,tid=2296,WaitingInMainSignalCatcherLoop,Thread*=0xefb4e000,peer=0x12c06160,"Signal Catcher"]: reacting to signal 3
+08-15 11:03:03.691: I/art(2244): Wrote stack traces to '/data/anr/traces.txt'
+08-15 11:03:03.693: I/art(2239): Thread[2,tid=2282,WaitingInMainSignalCatcherLoop,Thread*=0x7f97043000,peer=0x12c580a0,"Signal Catcher"]: reacting to signal 3
+08-15 11:03:03.733: I/art(2249): Wrote stack traces to '/data/anr/traces.txt'
+08-15 11:03:03.735: I/art(2234): Thread[2,tid=2269,WaitingInMainSignalCatcherLoop,Thread*=0x7f97043000,peer=0x12c580a0,"Signal Catcher"]: reacting to signal 3
+08-15 11:03:03.782: I/art(2239): Wrote stack traces to '/data/anr/traces.txt'
+08-15 11:03:03.784: I/art(2229): Thread[2,tid=2294,WaitingInMainSignalCatcherLoop,Thread*=0x7f97043000,peer=0x12c550a0,"Signal Catcher"]: reacting to signal 3
+08-15 11:03:03.850: I/art(2229): Wrote stack traces to '/data/anr/traces.txt'
+08-15 11:03:03.852: I/art(2218): Thread[2,tid=2259,WaitingInMainSignalCatcherLoop,Thread*=0x7f97043000,peer=0x12c550a0,"Signal Catcher"]: reacting to signal 3
+08-15 11:03:03.861: W/art(27908): Suspending all threads took: 562.297ms
+08-15 11:03:03.886: W/art(27908): Suspending all threads took: 25.103ms
+08-15 11:03:03.891: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:03:03.891: I/art(27908): Alloc concurrent mark sweep GC freed 4(368B) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 26.694ms total 623.330ms
+08-15 11:03:03.891: I/art(27908): WaitForGcToComplete blocked for 1.234s for cause HeapTrim
+08-15 11:03:03.892: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:03.893: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:03.937: I/art(27908): WaitForGcToComplete blocked for 640.472ms for cause Alloc
+08-15 11:03:03.937: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:03.937: I/art(27908): WaitForGcToComplete blocked for 642.229ms for cause Alloc
+08-15 11:03:03.937: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:03.938: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:03.938: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:03.938: I/art(2234): Wrote stack traces to '/data/anr/traces.txt'
+08-15 11:03:03.940: I/art(1811): Thread[2,tid=1839,WaitingInMainSignalCatcherLoop,Thread*=0x7f97043000,peer=0x12c490a0,"Signal Catcher"]: reacting to signal 3
+08-15 11:03:04.262: I/art(1811): Wrote stack traces to '/data/anr/traces.txt'
+08-15 11:03:04.271: I/art(27908): Forcing collection of SoftReferences for 17B allocation
+08-15 11:03:04.271: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:04.293: I/art(27908): Wrote stack traces to '/data/anr/traces.txt'
+08-15 11:03:04.375: I/art(2218): Wrote stack traces to '/data/anr/traces.txt'
+08-15 11:03:04.637: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:03:04.637: I/art(27908): Background partial concurrent mark sweep GC freed 25(10KB) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.341ms total 699.595ms
+08-15 11:03:04.637: I/art(27908): WaitForGcToComplete blocked for 699.320ms for cause Alloc
+08-15 11:03:04.637: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:04.637: I/art(27908): WaitForGcToComplete blocked for 699.330ms for cause Alloc
+08-15 11:03:04.637: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:04.637: I/art(27908): WaitForGcToComplete blocked for 366.112ms for cause Alloc
+08-15 11:03:04.638: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:04.638: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:04.640: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:04.640: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:05.171: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:03:05.171: I/art(27908): Alloc concurrent mark sweep GC freed 397(49KB) AllocSpace objects, 1(36KB) LOS objects, 0% free, 127MB/128MB, paused 1.202ms total 533.011ms
+08-15 11:03:05.171: I/art(27908): WaitForGcToComplete blocked for 533.220ms for cause Background
+08-15 11:03:05.171: I/art(27908): WaitForGcToComplete blocked for 532.939ms for cause Alloc
+08-15 11:03:05.171: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:05.171: I/art(27908): WaitForGcToComplete blocked for 531.295ms for cause Alloc
+08-15 11:03:05.171: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:05.203: I/art(27908): WaitForGcToComplete blocked for 532.471ms for cause Alloc
+08-15 11:03:05.203: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:05.203: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:05.204: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:05.207: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:05.229: I/art(27908): Alloc sticky concurrent mark sweep GC freed 156(32KB) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.276ms total 25.296ms
+08-15 11:03:05.229: I/art(27908): WaitForGcToComplete blocked for 25.165ms for cause Alloc
+08-15 11:03:05.229: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:05.230: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:05.230: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:05.238: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:05.248: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:05.775: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:03:05.775: I/art(27908): Alloc partial concurrent mark sweep GC freed 111(43KB) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.201ms total 545.209ms
+08-15 11:03:05.775: I/art(27908): WaitForGcToComplete blocked for 568.316ms for cause Background
+08-15 11:03:05.776: I/art(27908): WaitForGcToComplete blocked for 568.561ms for cause Alloc
+08-15 11:03:05.776: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:05.776: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:05.778: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:05.787: I/art(27908): WaitForGcToComplete blocked for 538.836ms for cause Alloc
+08-15 11:03:05.787: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:05.788: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:05.789: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:06.320: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:03:06.320: I/art(27908): Background partial concurrent mark sweep GC freed 43(21KB) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.293ms total 532.773ms
+08-15 11:03:06.320: I/art(27908): WaitForGcToComplete blocked for 541.744ms for cause Alloc
+08-15 11:03:06.320: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:06.320: I/art(27908): WaitForGcToComplete blocked for 531.692ms for cause Alloc
+08-15 11:03:06.320: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:06.320: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:06.320: I/art(27908): Waiting for a blocking GC Alloc
+08-15 11:03:06.331: I/art(27908): Alloc sticky concurrent mark sweep GC freed 113(25KB) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.223ms total 10.259ms
+08-15 11:03:06.331: I/art(27908): WaitForGcToComplete blocked for 10.553ms for cause Alloc
+08-15 11:03:06.331: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:06.331: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:06.331: I/art(27908): Starting a blocking GC Alloc
+08-15 11:03:06.924: I/art(27908): Clamp target GC heap from 131MB to 128MB
+08-15 11:03:06.924: I/art(27908): Alloc partial concurrent mark sweep GC freed 37(27KB) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 1.188ms total 592.936ms
+08-15 11:03:06.925: I/art(27908): WaitForGcToComplete blocked for 592.608ms for cause Background
+08-15 11:03:06.927: I/art(27908): Thread[2,tid=27913,WaitingInMainSignalCatcherLoop,Thread*=0x7f97043000,peer=0x22c1a1c0,"Signal Catcher"]: reacting to signal 3
+08-15 11:03:06.960: W/art(27908): Suspending all threads took: 25.551ms
+08-15 11:03:06.962: I/art(27908): Background sticky concurrent mark sweep GC freed 118(6KB) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 27.043ms total 36.999ms
+08-15 11:03:07.287: I/art(27908): Wrote stack traces to '/data/anr/traces.txt'

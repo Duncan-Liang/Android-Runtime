@@ -512,7 +512,8 @@
 
 
 
-
+Alloc sticky concurrent mark sweep GC
+Alloc partial concurrent mark sweep GC
 Alloc concurrent mark sweep GC freed
 Background partial concurrent mark sweep GC
 Background sticky concurrent mark sweep GC

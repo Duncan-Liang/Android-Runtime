@@ -509,3 +509,10 @@
 08-15 11:03:06.960: W/art(27908): Suspending all threads took: 25.551ms
 08-15 11:03:06.962: I/art(27908): Background sticky concurrent mark sweep GC freed 118(6KB) AllocSpace objects, 0(0B) LOS objects, 0% free, 127MB/128MB, paused 27.043ms total 36.999ms
 08-15 11:03:07.287: I/art(27908): Wrote stack traces to '/data/anr/traces.txt'
+
+
+
+
+Alloc concurrent mark sweep GC freed
+Background partial concurrent mark sweep GC
+Background sticky concurrent mark sweep GC
